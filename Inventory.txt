@@ -1,0 +1,18 @@
+TV
+Samsung				55" 					#NU6900				$379.99
+TCL					55"						#55S425				$299.99
+LG					43"						#UK6090				$249.99
+Sony				65"						#X800G				$899.99
+LG					65"						#65SM8600PUA		$999.99
+TCL					49"						#49S325				$249.99
+Sharp				58"						#LC-58Q7370U		$349.99
+Samsung				65"						#UN65NU6900F		$549.99
+
+Stereo
+JBL					#JBLBAR21BLKAM			$249.99
+Bose				#731396-1100			$199.99
+Sony				#STRDH790				$299.99
+Razer				#RZ05-02460100-R3U1		$149.99
+Vizio				#SB3651-E6				$219.99
+Sony				#SHAKEX10				$399.99
+Yamaha				#RX-V685BL				$549.99
